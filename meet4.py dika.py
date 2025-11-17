@@ -28,12 +28,13 @@ print(type(bil_bool))
 #umur anda adalah (umur)
 #tipe data dari umur anda adalah (tipe dari umur)
 
-nama = input ("masukan nama anda ") 
+nama = input ("dika adrian") 
 print("nama saya adalah ", nama)
 print("nilai dari nama saya", nama)
 print(type(nama))
 
-bil_int = int(input("masukan umur anda"))
+bil_int = int(input("19"))
 print("umur anda adalah", bil_int)
 print("nilai dari umur", bil_int)
 print(type(bil_int))
+
