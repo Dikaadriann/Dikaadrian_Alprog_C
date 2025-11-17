@@ -30,12 +30,13 @@ tugas
 #umur anda adalah (umur)
 #tipe data dari umur anda adalah (tipe dari umur)
 
-Khaizza Adiba Fayyaza = input ("Khaizza Adiba Fayyaza ") 
-print("nama saya adalah ", Khaizza Adiba Fayyaza)
-print("nilai dari nama saya", Khaizza Adiba Fayyaza)
-print(type(Khaizza Adiba Fayyaza))
+dika adrian = input ("Khaizza Adiba Fayyaza ") 
+print("nama saya adalah ", dika adrian)
+print("nilai dari nama saya", dika adrian)
+print(type(dika adrian))
 
-bil_int = int(input("18"))
+bil_int = int(input("19"))
 print("umur anda adalah", bil_int)
 print("nilai dari umur", bil_int)
 print(type(bil_int))
+
